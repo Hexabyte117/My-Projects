@@ -1,0 +1,1 @@
+Stock Analysis is analyzing three stocks with kernal density estimation. Also pulling data from yahoo finance and then performing a heat map and kernal density estimation. Also a method of predicting stock prices. I annotated my code for more specificity.
